@@ -1,5 +1,5 @@
 import java.util.*;
-public class Estructura_De_datos {
+public class Finalizacion {
     public static void main(String[] args) {
      Scanner entrada = new Scanner(System.in);
      Vector <String> registros = new Vector<>();;
